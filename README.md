@@ -24,7 +24,7 @@ Projede aşşağıda görmüş olduğunuz yapıyı kullandım;
   + **DataHelpers:** Listelerden random bir şekilde eleman çekmemize yarayan bir sınıftır.
   + **Listeners:** Projede bulunan caseleri dinleyen bir yapıdır.
   + **Log:** Loglama yapmamızı sağlayan bir yapıdır.
-+ **Pages:** Pages klasörünün yaratılma sebebi Pape Object Pattern kalıbını uylamaktır. İçerisinde caselerde kullanılan tüm sayfalar sınıflar aracılığıyla temsil edilir. Pages Klasörü içerisinde; BasketPage, HomePage, ItemPage, LoginPage, SearchPage sınıfları bulunur.
++ **Pages:** Pages klasörünün yaratılma sebebi Pape Object Pattern kalıbını uygulamaktır. İçerisinde caselerde kullanılan tüm sayfalar sınıflar aracılığıyla temsil edilir. Pages Klasörü içerisinde; BasketPage, HomePage, ItemPage, LoginPage, SearchPage sınıfları bulunur.
   + **BasketPage:** Kullanıcı Sepeti Sayfasıdır. Ürün fiyat sorgusu, sepette adet attırma ve sepetten ürün çıkarma işlemleri bu sayfa üzerinden yapılır.
   + **HomePage:** Kullanıcıyı karşılayan Ana Sayfadır(gittigidiyor.com). Login için ilk hareket ve ürün arama işlemleri bu sayfa üzerinden yapılır.
   + **ItemPage:** Ürün Sayfasıdır. Ürün bilgileri bu sayfa üzerinden kontrol edilir.
