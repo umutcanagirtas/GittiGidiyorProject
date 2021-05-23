@@ -21,12 +21,6 @@ public class CustomElementWaits {
         (new WebDriverWait(driver, TimeOut.MIDDLE.value)).until(ExpectedConditions.visibilityOfAllElements(elements));
     }
 
-//    public static void deneme(WebDriver driver){
-//        Wait<WebDriver> wait = new OpenQA.Selenium.Support.UI.WebDriverWait(driver, TimeSpan.FromSeconds(30.00));
-//
-//        wait.Until(driver1 => ((IJavaScriptExecutor)driver).ExecuteScript("return document.readyState").Equals("complete"));
-//    }
-
     public enum TimeOut {
         LOW(5),
         MIDDLE(10),
