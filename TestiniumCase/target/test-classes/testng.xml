@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite-TestiniumProject">
+    <test name="TestiniumCaseChrome">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="name" value="user-mail"/>
+        <parameter name="password" value="user-password"/>
+        <parameter name="item" value="bilgisayar"/>
+        <parameter name="count" value="2"/>
+        <classes>
+            <class name="tests.TestClass"/>
+        </classes>
+    </test>
+    <test name="TestiniumCaseFireFox">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="name" value="user-mail"/>
+        <parameter name="password" value="user-password."/>
+        <parameter name="item" value="bilgisayar"/>
+        <parameter name="count" value="2"/>
+        <classes>
+            <class name="tests.TestClass"/>
+        </classes>
+    </test>
+</suite>

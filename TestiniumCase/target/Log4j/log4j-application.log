@@ -1,0 +1,18 @@
+2021-05-23 15:33:39 INFO  Log:13 - Test is Starting..: TestiniumCaseChrome
+2021-05-23 15:33:45 INFO  Log:23 - Test case is starting: getHomePage
+2021-05-23 15:33:45 INFO  Log:23 - Test case was successfully finished: getHomePage
+2021-05-23 15:33:45 INFO  Log:23 - Test case is starting: getLoginPage
+2021-05-23 15:34:03 ERROR Log:33 - Test case failed:	Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@data-cy='header-user-menu']//div[@title]' (tried for 10 second(s) with 500 milliseconds interval)
+2021-05-23 15:34:04 INFO  Log:23 - Test case is starting: searchItem
+
+
+
+
+
+
+2021-05-23 15:42:05 INFO  Log:13 - Test is Starting..: TestiniumCaseChrome
+2021-05-23 15:42:11 INFO  Log:23 - Test case is starting: getHomePage
+2021-05-23 15:42:11 INFO  Log:23 - Test case was successfully finished: getHomePage
+2021-05-23 15:42:11 INFO  Log:23 - Test case is starting: getLoginPage
+2021-05-23 15:42:16 ERROR Log:33 - Test case failed:	null
+2021-05-23 15:42:16 INFO  Log:23 - Test case is starting: searchItem
