@@ -58,5 +58,6 @@ Allure yapısı caseler her tamamlandıktan sonra belirtilen path e kaydediliyor
 
 - Allure Fail Case Ekran Görüntüsü
 
-![allure fail](https://user-images.githubusercontent.com/56224909/119261023-11298680-bbde-11eb-9b21-71072304c6dc.png)
+![allure success](https://user-images.githubusercontent.com/56224909/119264182-c06c5a80-bbea-11eb-8e1a-cde53e5980b9.png)
+
 
