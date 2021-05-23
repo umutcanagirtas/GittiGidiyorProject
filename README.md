@@ -8,7 +8,8 @@ Selenium, allure ve Log4j framework kullanarak birkaç senaryo üzerinden UI Tes
 - TestNG(Test Caselerin yazılması ve çıktıların kontrollerinde kullanılan Test Yazım Aracıdır);
 - Selenium (Web Sitesini test etmek için kullanılan Test Otomasyon Aracıdır);
 - Allure (Test Sonuclarının monitorize edilmesini sağlar);
-- Log4J (Hata sonuclarının loglanmasını sağlar).
+- Log4J (Hata sonuçlarının loglanmasını sağlar);
+- Page Object Pattern (Projede kullanılan mimari yapıdır).
 
 ## Proje Yapısının Açıklanması
 
